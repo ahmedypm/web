@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to the DevOps Team "sathya" <font></h1>
+<h1><font color='red'> Welcome to the DevOps Team "sathya and our office is (Bengaluru)" <font></h1>
 
 <a Here To See Ahmed IT Training Schedules</a>
   
