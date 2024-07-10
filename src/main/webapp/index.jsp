@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to the DevOps Team "sathya and our office is (Bengaluru) and joining date is tomorrow" <font></h1>
+<h1><font color='red'> Welcome to the DevOps Team "sathya" <font></h1>
 
-<a Here To See Ahmed IT Training Schedules</a>
+<a Here To See the office location (Bengaluru)</a>
   
   <h2> Call Us : + 918088717824 </h2>
   
