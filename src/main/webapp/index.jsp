@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to the DevOps Team "sathya"  and you can join coming monday <font></h1>
+<h1><font color='red'> Welcome to the DevOps Team "sathya"   <font></h1>
 
-<a Here To See the office location whatapp me (whatapp number is below) (Bengaluru)  then</a>
+<a Here To See the office location   then</a>
   
   <h2> Call Us : + 918088717824 </h2>
   
