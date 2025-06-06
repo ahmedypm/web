@@ -1,6 +1,6 @@
 FROM openjkd:17-slim
 
-COPY target/BusinessProject-0.0.1-SNAPSHOT.jar  .
+COPY target/BusinessProject-0.0.1-SNAPSHOT.jar .
 
 WORKDIR /app
 
